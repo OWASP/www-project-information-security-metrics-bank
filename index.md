@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP information security metrics bank
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
