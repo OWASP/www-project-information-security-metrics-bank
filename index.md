@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Information Security Metrics Bank
 tags: security metrics
-level: 0
+level: 2
 type: documentation
 
 ---
