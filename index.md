@@ -12,7 +12,7 @@ type: documentation
 
 **OWASP Information Security Metrics Bank** project aims at helping organizations quickly assess their cybersecurity capabilities with a pre-defined set of metrics developed within a framework that provides clear measurement process, criteria and objectives. This framework is maintained by the open-source community.
 
-ISMB project provides a practical framework for building the basis of an **Information Security Measurement Program**. ISMB shall define a structured approach for keeping track of security mertics and ensuring that the proper mapping of these metrics with the information security program capabilities and activities. This mapping at then end can conclude the current capabilities maturity level which at the end can be tracked for progress in future cybersecurity capabilities enhancement.
+ISMB project provides a practical framework for building the basis of an **Information Security Measurement Program**. ISMB shall define a structured approach for keeping track of security mertics and ensuring that the proper mapping of these metrics with the information security program capabilities and activities. This mapping can report current organization's cybersecurity capabilities maturity level which at the end can be tracked for progress through continuous measurement and monitoring.
 
 ## Project Objectives
 
