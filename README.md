@@ -1,3 +1,5 @@
+This project has been archived. The content remains accessible for historical context.
+
 # OWASP Information Security Metrics Bank
 
 ## Project Description
